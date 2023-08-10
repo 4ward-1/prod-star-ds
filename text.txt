@@ -5,3 +5,7 @@ More text added
 One more line added
 
 Best another added
+Another added
+
+Just Another added
+Its merged!
